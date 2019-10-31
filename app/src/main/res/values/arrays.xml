@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>Biology</item>
+        <item>Biomolecular Science</item>
+        <item>Chemistry</item>
+        <item>Computer Science</item>
+        <item>Integrated Chemistry/Biology</item>
+        <item>Mathematical Biology</item>
+        <item>Mathematics</item>
+        <item>Neuroscience</item>
+        <item>Physics</item>
+        <item>Psychology</item>
+        <item>Science Conversation</item>
+        <item>Statistics and Data Science</item>
+        <item>Economics</item>
+        <item>Education</item>
+        <item>Exercise Science</item>
+        <item>Family Studies</item>
+        <item>Management Studies</item>
+        <item>Nursing</item>
+        <item>Political Science</item>
+        <item>Social Work</item>
+        <item>Sociology/Anthropology</item>
+        <item>Art and Art History</item>
+        <item>Dance</item>
+        <item>Music</item>
+        <item>Theater</item>
+        <item>Ancient Studies</item>
+        <item>Classics</item>
+        <item>English</item>
+        <item>Foreign Languages Across the Curriculum</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Great Conversation</item>
+        <item>Greek</item>
+        <item>History</item>
+        <item>Latin</item>
+        <item>Medieval Studies</item>
+        <item>Norwegian</item>
+        <item>Philosophy</item>
+        <item>Religion</item>
+        <item>Spanish</item>
+        <item>Africa and the African Diaspora</item>
+        <item>American Conversations</item>
+        <item>American Studies</item>
+        <item>Asian Conversations</item>
+        <item>Asian Studies</item>
+        <item>Chinese</item>
+        <item>Environmental Conversations</item>
+        <item>Environmental Studies</item>
+        <item>Film Studies</item>
+        <item>Center for Integrative Studies</item>
+        <item>Japanese</item>
+        <item>Latin American Studies</item>
+        <item>Linguistic Studies</item>
+        <item>Media Studies</item>
+        <item>Middle East Studies</item>
+        <item>Nordic Studies</item>
+        <item>Public Affairs Conversation</item>
+        <item>Race and Ethnic Studies</item>
+        <item>Russian Language and Area Studies</item>
+        <item>Women’s and Gender Studies</item>
+    </string-array>
+    
+    <string-array name="year">
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+        <item>2027</item>
+        <item>2028</item>
+    </string-array>
+
+    <string-array name="term">
+        <item>Fall</item>
+        <item>Winter</item>
+        <item>Spring</item>
+        <item>Summer</item>
+    </string-array>
+
+    <string-array name="graduateArea">
+        <item>Graduate School</item>
+    </string-array>
+
+    <string-array name="universityArea">
+        <item>Elective</item>
+        <item>Major</item>
+    </string-array>
+
+    <string-array name="graduateMajor">
+        <item>graduateMajor</item>
+    </string-array>
+
+    <string-array name="universityRefinementMajor">
+        <item>Art and Art History</item>
+        <item>Dance</item>
+        <item>Music</item>
+        <item>Theater</item>
+        <item>Ancient Studies</item>
+        <item>Classics</item>
+        <item>English</item>
+        <item>Foreign Languages Across the Curriculum</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Great Conversation</item>
+        <item>Greek</item>
+        <item>History</item>
+        <item>Latin</item>
+        <item>Medieval Studies</item>
+        <item>Norwegian</item>
+        <item>Philosophy</item>
+        <item>Religion</item>
+        <item>Spanish</item>
+        <item>Africa and the African Diaspora</item>
+        <item>American Conversations</item>
+        <item>American Studies</item>
+        <item>Asian Conversations</item>
+        <item>Asian Studies</item>
+        <item>Chinese</item>
+        <item>Environmental Conversations</item>
+        <item>Environmental Studies</item>
+        <item>Film Studies</item>
+        <item>Center for Integrative Studies</item>
+        <item>Japanese</item>
+        <item>Latin American Studies</item>
+        <item>Linguistic Studies</item>
+        <item>Media Studies</item>
+        <item>Middle East Studies</item>
+        <item>Nordic Studies</item>
+        <item>Public Affairs Conversation</item>
+        <item>Race and Ethnic Studies</item>
+        <item>Russian Language and Area Studies</item>
+        <item>Women’s and Gender Studies</item>
+    </string-array>
+
+    <string-array name="universityMajor">
+        <item>Biology</item>
+        <item>Biomolecular Science</item>
+        <item>Chemistry</item>
+        <item>Computer Science</item>
+        <item>Integrated Chemistry/Biology</item>
+        <item>Mathematical Biology</item>
+        <item>Mathematics</item>
+        <item>Neuroscience</item>
+        <item>Physics</item>
+        <item>Psychology</item>
+        <item>Science Conversation</item>
+        <item>Statistics and Data Science</item>
+        <item>Economics</item>
+        <item>Education</item>
+        <item>Exercise Science</item>
+        <item>Family Studies</item>
+        <item>Management Studies</item>
+        <item>Nursing</item>
+        <item>Political Science</item>
+        <item>Social Work</item>
+        <item>Sociology/Anthropology</item>
+    </string-array>
+
+    <string-array name="rank">
+        <item>All</item>
+        <item>My major</item>
+        <item>Man preference</item>
+        <item>Woman preference</item>
+        <item>Major</item>
+        <item>Elective</item>
+    </string-array>
+
+</resources>
